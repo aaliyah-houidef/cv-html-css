@@ -1,0 +1,29 @@
+section{    color: rgb(17, 47, 238);} 
+
+p,section{ 
+
+font-family: "Oswald", sans-serif;
+font-optical-sizing: auto;
+font-weight: 300;
+font-style: normal;
+
+}
+h1,h2 {
+font-weight: 700;
+}
+html{
+    background-color: rgb(244, 248, 248);
+}
+body{
+    width: 600px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  text-align: center;
+  border: 2px solid rgb(52, 7, 136);
+  }
+  h1,h2 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+  }
+  h2{text-decoration: underline;}
